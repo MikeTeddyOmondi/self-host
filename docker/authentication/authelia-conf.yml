@@ -47,7 +47,7 @@ password_policy:
     min_score: 3
 
 access_control:
-  default_policy: "two_factor"
+  default_policy: "one_factor"
 
 session:
   name: "authelia_session"
